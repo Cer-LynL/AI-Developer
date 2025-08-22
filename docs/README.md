@@ -392,7 +392,3 @@ For questions or issues:
 - **Documentation**: Check this README and inline comments
 - **Demo Issues**: Review the troubleshooting section
 - **Feature Requests**: Consider for future iterations
-
----
-
-**Built with ❤️ for autonomous development**
